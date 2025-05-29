@@ -8,9 +8,9 @@
   "description": "Delicious meals and drinks served fresh at The Ostrich Bistro.",
   "icons": [
     {
-      "src": "icons/icon-192.jpg",
+      "src": "icons/icon-192.png",
       "sizes": "192x192",
-      "type": "image/jpg",
+      "type": "image/png",
       "purpose": "any"
     },
     {
